@@ -12,3 +12,9 @@ b64 -d <inputEncodedString>
 b64 -f -e <inputFileName> <outputFileName>
 b64 -f -d <inputFileName> <outputFileName>
 ```
+
+Windows users
+[Click here to download executable](https://github.com/dinumathai/b64/raw/master/b64.exe)
+
+Developers/Other OS Users
+`go get https://github.com/dinumathai/b64`
