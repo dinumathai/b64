@@ -15,6 +15,7 @@ b64 -f -d <inputFileName> <outputFileName>
 
 #### Download executable
 [Download windows executable](https://github.com/dinumathai/b64/raw/master/b64.exe)
+
 [Download mac-intel-64 executable](https://github.com/dinumathai/b64/raw/master/b64-mac-intel)
 
 #### Developers/Other OS Users
