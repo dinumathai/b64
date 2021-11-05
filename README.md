@@ -13,8 +13,9 @@ b64 -f -e <inputFileName> <outputFileName>
 b64 -f -d <inputFileName> <outputFileName>
 ```
 
-#### Windows users
-[Click here to download executable](https://github.com/dinumathai/b64/raw/master/b64.exe)
+#### Download executable
+[Download windows executable](https://github.com/dinumathai/b64/raw/master/b64.exe)
+[Download mac-intel-64 executable](https://github.com/dinumathai/b64/raw/master/b64-mac-intel)
 
 #### Developers/Other OS Users
 `go get github.com/dinumathai/b64`
